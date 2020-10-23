@@ -27,7 +27,7 @@
         For Example,
         Then the server will take the response from that database and the response will be given back to the application. Look at the below figure to understand better
 
-       ![amazon_guru](https://d0.awsstatic.com/Digital%20Marketing/sitemerch/sign-in/en/SiteMerch_Amazon-CodeGuru_ConsoleSign-in_w37y20_CTA_ImproveCodeQuality.png)
+       ![selenium-rc](https://github.com/sandesh-gaikwad/selenium-demo/blob/main/selenium-rc.png?raw=true)
       
         
        
