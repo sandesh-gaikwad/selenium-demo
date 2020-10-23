@@ -27,7 +27,7 @@
         For Example,
         Then the server will take the response from that database and the response will be given back to the application. Look at the below figure to understand better
 
-       ![selenium-rc](https://github.com/sandesh-gaikwad/selenium-demo/blob/main/selenium-rc.png?raw=true)
+       ![selenium-rc](https://github.com/sandesh-gaikwad/selenium-demo/blob/main/selenium-rc.png)
       
         
        
