@@ -25,8 +25,12 @@
         3. Selenium RC is a server which must be start before execution of test script.
         
         For Example,
-        Then the server will take the response from that database and the response will be given back to the application. Look at the below figure to understand better
-![selenium-rc](https://github.com/sandesh-gaikwad/selenium-demo/blob/main/selenium-rc.png)
-      
+        Then the server will take the response from that database and the response will be given back to the application. 
+        Look at the below figure to understand better
+   ![selenium-rc](https://github.com/sandesh-gaikwad/selenium-demo/blob/main/selenium-rc.png)
+    
+    Selenium RC uses a series of Javascript libraries to perform the actions such as clicking on a button, 
+    entering the text into the textbox, selecting a value from drop-down, etc. against web browsers.
+
         
        
